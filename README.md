@@ -184,7 +184,7 @@ Results:
 
 ### Overall Churn Analysis
 
-![Overall Churn Analysis](images/churn_overview.png)
+![Overall Churn Analysis](images/churn_overview.png.png)
 
 This visualization presents the overall churn rate and the impact of contract type on customer retention.
 
@@ -192,7 +192,7 @@ This visualization presents the overall churn rate and the impact of contract ty
 
 ### Monthly Charges vs Churn
 
-![Monthly Charges vs Churn](images/monthly_charges_churn.png)
+![Monthly Charges vs Churn](images/monthly_charges_churn.png.png)
 
 Customers with higher monthly charges show a significantly higher probability of churn.
 
@@ -200,7 +200,7 @@ Customers with higher monthly charges show a significantly higher probability of
 
 ### Customer Segmentation
 
-![Customer Segmentation](images/customer_segmentation.png)
+![Customer Segmentation](images/customer_segmentation.png.png)
 
 Customers were segmented into Champions, Loyal, At Risk and Lost groups to support targeted retention strategies.
 
@@ -208,7 +208,7 @@ Customers were segmented into Champions, Loyal, At Risk and Lost groups to suppo
 
 ### Feature Importance
 
-![Feature Importance](images/feature_importance.png)
+![Feature Importance](images/feature_importance.png.png)
 
 Feature importance analysis reveals which variables contribute most to churn prediction decisions.
 
